@@ -1,0 +1,2 @@
+# brainrotweb
+This is my shoddy attempt at making web pages accessible to those with "brainrot". "Brainrot" is described as the deleterious effects associated with excessive use of digital media. Gen Alpha and Gen Z are particularly sucseptible to this unfortunate condition.
